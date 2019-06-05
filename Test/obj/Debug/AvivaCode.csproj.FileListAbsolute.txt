@@ -1,0 +1,9 @@
+/Users/home/Projects/AvivaCodeTest/Test/bin/Debug/Test.dll
+/Users/home/Projects/AvivaCodeTest/Test/bin/Debug/Test.pdb
+/Users/home/Projects/AvivaCodeTest/Test/bin/Debug/Autofac.dll
+/Users/home/Projects/AvivaCodeTest/Test/bin/Debug/Autofac.pdb
+/Users/home/Projects/AvivaCodeTest/Test/bin/Debug/Autofac.xml
+/Users/home/Projects/AvivaCodeTest/Test/obj/Debug/AvivaCode.csproj.CoreCompileInputs.cache
+/Users/home/Projects/AvivaCodeTest/Test/obj/Debug/AvivaCode.csproj.CopyComplete
+/Users/home/Projects/AvivaCodeTest/Test/obj/Debug/Test.dll
+/Users/home/Projects/AvivaCodeTest/Test/obj/Debug/Test.pdb
